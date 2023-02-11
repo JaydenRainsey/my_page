@@ -1,4 +1,4 @@
 # my_page
 
-Purpose: personal webpage
+Purpose: personal webpage,
 Author: Jayden Rainsey
