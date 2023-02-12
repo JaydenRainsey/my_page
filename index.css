@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 1px solid red;
+}
+
+h1 {
+    font-family: 'Titan One', 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+p {
+    color: black;
+}
+
+.title {
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    padding: 48px;
+    padding-top: 96px;
+    border-top: 1px black solid;
+}
+
+/* Navbar */
+
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    background-color: rgb(230, 250, 250);
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    margin-left: auto;
+    margin-right: 12px;
+    
+}
